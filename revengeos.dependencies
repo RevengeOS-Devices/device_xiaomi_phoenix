@@ -1,0 +1,18 @@
+[
+ {
+   "remote": "devices",
+   "repository": "vendor_xiaomi_phoenix",
+   "target_path": "vendor/xiaomi/phoenix"
+ },
+ {
+   "remote": "github",
+   "repository": "StarkDroid/android_kernel_xiaomi_phoenix",
+   "target_path": "kernel/xiaomi/phoenix",
+   "branch": "11-oss"
+ },
+ {
+   "remote": "github",
+   "repository": "LineageOS/android_hardware_xiaomi",
+   "target_path": "hardware/xiaomi"
+ }
+]
